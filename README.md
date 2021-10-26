@@ -11,13 +11,15 @@ Cd shakepay-excersice
 
 
 
-# install ALl dependencies
+# install ALL dependencies
 
 
 npm install
 
 
 
+
+# Starting Environment
 #start the server
 
 
